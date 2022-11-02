@@ -14,15 +14,15 @@
 </picture>
 
   
-  ### Jonguk 
+  ### :fire::dragon_face: **Jonguk** :fire::dragon_face:
   
   ---
-
+### :dart: Aim Web Developer
 
 
   
 </div>
-  <br>
+  
   <br>
   <br>
   <br>
