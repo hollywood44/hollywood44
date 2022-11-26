@@ -17,7 +17,7 @@
   ### :fire::dragon_face: **Jonguk** :fire::dragon_face:
   
   ---
-### :dart: Aim Web Developer
+### :dart: Aim BackEnd Developer
 
 
   
