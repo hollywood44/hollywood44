@@ -1,35 +1,16 @@
-<div align="center">
 
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=hollywood44&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=hollywood44&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hollywood44&show_icons=true" />
-</picture>
 
+
+## Jonguk
+### BackEnd Developer
   
-  ### :fire::dragon_face: **Jonguk** :fire::dragon_face:
+### Contact
+  Notion : [Link](https://jonguks.notion.site/ad6faa06559649869ccd6e0e845646d7)<br/>
+  Email : hollywood44@naver.com
   
-  ---
-### :dart: Aim BackEnd Developer
-
-
-  
-</div>
   
   <br>
-  <br>
-  <br>
-  <br>
- 
-  
-  ---
 <!--   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollywood44&theme=transparent&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/> -->
   
